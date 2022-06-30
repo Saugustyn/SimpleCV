@@ -8,6 +8,7 @@ h2
 }
 span
 {
+    display: block;
     color: gray;
 }
 img
