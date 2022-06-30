@@ -1,6 +1,7 @@
 body
 {
     font-family: Arial;
+    background-color: aliceblue;
 }
 h2 
 {
@@ -18,4 +19,9 @@ img
     border: 2px solid gray;
     padding: 5px;
     margin: 1px;
+}
+section,
+header
+{
+    padding: 10px 60px 20px 60px;
 }
