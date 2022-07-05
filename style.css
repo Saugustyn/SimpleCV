@@ -112,13 +112,9 @@ main img
 }
 .skills
 {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: auto auto;
     padding: 0;
-}
-.skills ul
-{
-    width: 50%;
 }
 .cv-download
 {
