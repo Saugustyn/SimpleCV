@@ -18,20 +18,10 @@ span
     color: rgb(106, 106, 106);
 }
 section,
-header,
-footer
+header
 {
     padding: 10px 40px 20px 40px;
    
-}
-footer
-{
-    margin-top: 10px;
-    font-size: 13px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
 }
 header
 {
